@@ -4,42 +4,139 @@ title: RobotPy Community
 
 # Feel free to add your team to this list!
 teamlist:
-  2022:
+  2023:
     '94': {}
     '1076':
       awards:
-      - 'FIM District Gull Lake Event presented by Parker Hannafin: District Event
+      - 'FIM District Saline Event: Team Spirit Award'
+    '1721':
+      awards:
+      - 'NE District North Shore Event: District Event Finalist'
+    '1757':
+      awards:
+      - 'NE District Greater Boston Event: District Championship Dean''s List Semi-Finalist'
+      - 'NE District WPI Event: District Event Winner'
+      - 'NE District WPI Event: District Engineering Inspiration Award'
+      - 'New England FIRST District Championship - WILSON Division: District Championship
+        Winner'
+      - 'New England FIRST District Championship - WILSON Division: Excellence in
+        Engineering Award'
+      - 'New England FIRST District Championship: District Championship Winner'
+    '3160':
+      awards:
+      - 'Oklahoma Regional: Industrial Design Award sponsored by General Motors'
+      - 'Green Country Regional: Regional Finalists'
+      - 'Green Country Regional: Imagery Award in honor of Jack Kamen'
+    '3200':
+      code: https://github.com/Raptacon/Robot-2023
+    '3881': {}
+    '4096':
+      awards:
+      - 'Central Illinois Regional: FIRST Dean''s List Finalist Award'
+      - 'Central Illinois Regional: Regional Winners'
+      - 'Central Illinois Regional: Innovation in Control Award'
+      - 'Iowa Regional: Regional FIRST Impact Award'
+      - 'Hopper Division: Championship Division Winner'
+      - 'Einstein Field: Championship Winner'
+      code: https://github.com/CtrlZ-FRC4096/Robot-2023-Public
+    '4774': {}
+    '6343':
+      awards:
+      - 'PNW District Wilsonville Event: Gracious Professionalism Award'
+      code: https://github.com/SteelRidgeRobotics/2022-23_FRC_Season
+    '6367': {}
+    '7407':
+      awards:
+      - 'NE District SE Mass Event: District Event Finalist'
+      - 'NE District SE Mass Event: Excellence in Engineering Award'
+      - 'NE District SE Mass Event: District Championship Dean''s List Semi-Finalist'
+      - 'NE District Hartford Event: Industrial Design Award sponsored by General
+        Motors'
+      - 'Hopper Division: Innovation in Control Award'
+      - 'New England FIRST District Championship - MEIR Division: District Championship
+        Winner'
+      - 'New England FIRST District Championship - MEIR Division: Gracious Professionalism
+        Award'
+      - 'New England FIRST District Championship: District Championship Finalist'
+      - 'New England FIRST District Championship: FIRST Dean''s List Finalist Award'
+    '7439':
+      code: https://github.com/qubit-robotics/2023-public
+    '7459':
+      code: https://github.com/TaubatexasRobotics/2023-robot-code
+    '8778': {}
+  2022:
+    '94':
+      code: https://github.com/TechnoJays/robot2022
+    '1076':
+      awards:
+      - 'FIM District Gull Lake Event presented by Parker Hannifin: District Event
         Finalist'
+      code: https://github.com/FRC1076/2022-Competition
     '1721':
       awards:
       - 'NE District Granite State Event: Gracious Professionalism Award'
+      code: https://github.com/FRC-1721/1721-RapidReact
+    '1757':
+      awards:
+      - 'NE District WPI Event: Innovation in Control Award'
+      - 'New England FIRST District Championship - Calcium Division: Quality Award'
+      code: https://github.com/1757WestwoodRobotics/2022-RapidReact
     '2429':
       awards:
       - 'Orange County Regional: Excellence in Engineering Award'
+      - 'Aerospace Valley Regional: Excellence in Engineering Award'
+      code: https://github.com/aesatchien/FRC2429_2022
     '2539':
       awards:
       - 'FMA District Hatboro-Horsham Event: District Event Winner'
       - 'FMA District Hatboro-Horsham Event: Innovation in Control Award'
+      - 'FMA District Seneca Event: District Event Finalist'
+      - 'FMA District Seneca Event: Innovation in Control Award'
+      - 'FIRST Mid-Atlantic District Championship: District Championship Finalist'
+      - 'FIRST Mid-Atlantic District Championship: Innovation in Control Award'
+      - 'FIRST Championship (Houston): Championship Finalist'
+      - 'Turing Division: Championship Division Winner'
+      code: https://github.com/FRC2539/2022RapidReact
     '2988':
-      code: https://github.com/Robogenesis2988
-    '3200':
-      awards:
-      - 'Arizona North Regional: Regional Finalists'
-      - 'Arizona North Regional: Excellence in Engineering Award'
+      code: https://github.com/Robogenesis2988/Robot-2022
     '3160':
       awards:
       - 'Oklahoma Regional: Regional Winners'
       - 'Oklahoma Regional: Creativity Award sponsored by Rockwell Automation'
       - 'Oklahoma Regional: FIRST Dean''s List Finalist Award'
-    '4096': {}
+      code: https://github.com/FROG3160/2022-rapid-react
+    '3200':
+      code: https://github.com/Raptacon/Robot-2022
+      awards:
+      - 'Arizona North Regional: Regional Finalists'
+      - 'Arizona North Regional: Excellence in Engineering Award'
+    '4096':
+      code: https://github.com/CtrlZ-FRC4096/Robot-2022-Public
     '4169': {}
     '4774':
       awards:
       - 'Southern Cross Regional: Regional Finalists'
       - 'Southern Cross Regional: Innovation in Control Award'
-    '5654': {}
-    '6343': {}
-    '6367': {}
+      - 'Hawaii Regional: Regional Winners'
+      - 'Hawaii Regional: Innovation in Control Award'
+      code: https://github.com/thedropbears/pyrapidreact
+    '5654':
+      awards:
+      - 'FIRST Israel District Championship: Quality Award'
+    '6343':
+      code: https://github.com/SteelRidgeRobotics/2021-2022_FRC_Season
+    '6367':
+      code: https://github.com/frc6367/2022-robot
+    '7407':
+      code: https://github.com/Choate-Robotics/7407-DriveCode-2021-Python
+      awards:
+      - 'NE District Granite State Event: District Event Winner'
+      - 'NE District Granite State Event: Innovation in Control Award'
+      - 'NE District Hartford Event: District Event Finalist'
+      - 'NE District Hartford Event: District Engineering Inspiration Award'
+      - 'New England FIRST District Championship: FIRST Dean''s List Finalist Award'
+    '7439':
+      code: https://github.com/qubit-robotics/2022pendik
     '7459':
       code: https://github.com/TaubatexasRobotics/2022-robot-code
     '8032': {}
@@ -47,6 +144,7 @@ teamlist:
     '1076':
       awards:
       - 'Strontium Group - Game Design Challenge: Engineering Design Award'
+    '1757': {}
     '2539':
       code: https://github.com/FRC2539/pybot/tree/2021Solo
       awards:
@@ -60,7 +158,8 @@ teamlist:
       code: https://github.com/CtrlZ-FRC4096/Robot-2020-Public
     '3200':
       code: https://github.com/Raptacon/Robot-2021
-    '7439': {}
+    '7439':
+      code: https://drive.google.com/file/d/1dq2LAL_NiuyIBIhyHEXXOv7uvgAwK8vw/view?usp=sharing
     '7459':
       code: https://github.com/TaubatexasRobotics/2021-robot-code
     '8032':
@@ -74,6 +173,8 @@ teamlist:
       code: https://github.com/FRC1076/2020-Competition
     '1571':
       code: https://github.com/FRCTeam1571/Robot2020
+    '1757':
+      code: https://github.com/1757WestwoodRobotics/InfiniteRecharge2020
     '2429':
       code: https://github.com/aesatchien/FRC2429_2020
       awards:
@@ -785,6 +886,7 @@ official:
     2018: 64
     2019: 77
     2020: 31
+    2022: 46
 
 ---
 
